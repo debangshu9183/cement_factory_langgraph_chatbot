@@ -1,0 +1,63 @@
+# -------------------------
+
+# Python
+
+# -------------------------
+
+**pycache**/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+
+venv/
+env/
+lang_bot/
+
+# Environment variables
+
+.env
+
+# Jupyter
+
+.ipynb_checkpoints/
+
+# Vector databases
+
+*.faiss
+*.pkl
+faiss_index/
+
+# Logs
+
+*.log
+
+# OS files
+
+.DS_Store
+Thumbs.db
+
+# IDE
+
+.vscode/
+.idea/
+
+# -------------------------
+
+# Flutter / Dart
+
+# -------------------------
+
+.dart_tool/
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
+/build/
+/coverage/
+
+# Android build artifacts
+
+/android/app/debug
+/android/app/profile
+/android/app/release
