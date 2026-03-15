@@ -1,3 +1,4 @@
+# pip install fastapi uvicorn[standard] python-dotenv langchain langchain-core langchain-community langchain-groq langchain-huggingface langchain-text-splitters pdfplumber faiss-cpu sentence-transformers groq pydantic
 langgraph>=0.2.0
 langchain>=0.2.0
 langchain-community>=0.2.0
